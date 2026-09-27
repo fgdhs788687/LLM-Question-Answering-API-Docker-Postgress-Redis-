@@ -383,4 +383,4 @@ backend/
 
 ## Loom Video
 
-[Link to 5-minute walkthrough](https://loom.com/...)
+[Watch the 5-minute walkthrough](https://www.loom.com/share/3ccd0c35bbec4725900f9e5d7afb29e5)
